@@ -1,1 +1,8 @@
+discord.py
+PyNaCl
+spotipy
+spotdl
+yt-dlp
+ffmpeg-python
+python-dotenv
 
